@@ -1,11 +1,11 @@
 /* PSG1218 */
 
-#define BOARD_PID		"PSG1218"
-#define BOARD_NAME		"PSG1218"
-#define BOARD_DESC		"PHICOMM PSG1218 Wireless Router"
-#define BOARD_VENDOR_NAME	"PHICOMM"
-#define BOARD_VENDOR_URL	"http://www.phicomm.com/"
-#define BOARD_MODEL_URL		"http://www.phicomm.com/"
+#define BOARD_PID		"ASUS"
+#define BOARD_NAME		"ASUS"
+#define BOARD_DESC		"ASUS RT-N56U Wireless Router"
+#define BOARD_VENDOR_NAME	"ASUS"
+#define BOARD_VENDOR_URL	"http://www.asus.com/"
+#define BOARD_MODEL_URL		"http://www.asus.com/"
 #define BOARD_BOOT_TIME		25
 #define BOARD_FLASH_TIME	120
 #undef BOARD_GPIO_BTN_RESET	
